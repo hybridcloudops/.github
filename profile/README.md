@@ -14,4 +14,5 @@ The adoption of cloud and DevOps models is a current trend in the industry. As p
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+<p align="center"><sub>July 2020</sub></p>
 <p align="center"><sub>Simon Anliker - https://anliker.dev</sub></p>
