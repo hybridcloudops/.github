@@ -8,7 +8,7 @@ The adoption of cloud and DevOps models is a current trend in the industry. As p
 
 <br><br><br><br><br><br><br><br><br><br>
 
-<img align="right" height="400" src="https://github.com/hybridcloudops/thesis/blob/main/img/def_devops_quadrant_v3.png">
+<img align="right" height="450" src="https://github.com/hybridcloudops/thesis/blob/main/img/def_devops_quadrant_v3.png">
 <p align="right"><sub>Quadrant of DevOps interpretations classifying DevOps variants by specification and automation.</sub></p>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
